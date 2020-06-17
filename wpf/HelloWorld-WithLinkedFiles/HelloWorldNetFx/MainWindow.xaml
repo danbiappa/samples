@@ -10,7 +10,7 @@
             <RowDefinition Height="9*"/>
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
-        <Label x:Name="label1" Content="Hello World " HorizontalAlignment="Center" VerticalAlignment="Center"
+        <Label x:Name="label1" Content="Hello Skott Welcome to " HorizontalAlignment="Center" VerticalAlignment="Center"
                FontSize="40"/>
         <Button Content="Exit" Grid.Row="1" FontSize="20" Click="ButtonExit_Click"/>
     </Grid>
